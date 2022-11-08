@@ -6,5 +6,5 @@ Git delete files.
 git remote add origin https://github.com:username/repo-name.git
 git push -u origin master
 git review push command.
-Creating a new branch is quick.
+Creating a new branch is quick AND simple.
 review git branch management.
