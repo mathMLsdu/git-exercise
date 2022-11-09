@@ -8,3 +8,4 @@ git push -u origin master
 git review push command. 
 Creating a new branch is quick and simple.
 review git branch management.
+add merge with no-ff.
